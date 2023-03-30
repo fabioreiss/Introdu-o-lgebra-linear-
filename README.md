@@ -1,2 +1,2 @@
-# Introdu-o-lgebra-linear-
+# Introdução à álgebra linear 
 Material de estudo para álgebra linear
